@@ -5,3 +5,8 @@ _site/
 *.class
 Gemfile.lock
 *.gem
+nbproject/
+target/
+.classpath
+.project
+.settings/
