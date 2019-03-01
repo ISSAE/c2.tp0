@@ -1,0 +1,22 @@
+remote_theme: ISSAE/architect
+
+name: Valeur C2 informatique AISL TP intro
+
+author: Pascal Fares
+
+author_email: pascal.fares@isae.edu.lb
+
+title: Tp introduction C2 2019
+
+description: AISL Cnam Liban
+
+link1: support
+
+google_analytics: UA-29708002-2
+
+repository: ISSAE/c2.tp0
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
